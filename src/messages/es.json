@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "catering": "Catering",
+    "schedule": "Agenda",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Auténticos Sabores Venezolanos",
+    "subtitle": "Catering para tu próximo evento en Raleigh y el área del Triángulo",
+    "cta_primary": "Solicitar Catering",
+    "cta_secondary": "Ver Nuestro Menú"
+  },
+  "gallery": {
+    "title": "Nuestra Comida y Eventos",
+    "subtitle": "Un sabor de lo que llevamos a cada evento"
+  },
+  "menu": {
+    "title": "Menú de Catering",
+    "subtitle": "Nuestro catering es totalmente personalizado para tu evento. Dinos qué necesitas y crearemos el menú perfecto para ti.",
+    "custom_pricing": "Precio personalizado según tu evento",
+    "request_quote": "Solicitar Cotización",
+    "experiences_title": "Experiencias Pasadas",
+    "events_served": "Eventos Que Hemos Atendido",
+    "items": {
+      "arepas": { "name": "Arepas", "description": "Tradicionales tortillas venezolanas de maíz rellenas con tu elección de proteínas y toppings" },
+      "tequenos": { "name": "Tequeños", "description": "Palitos de pan crujientes rellenos de queso, perfectos para cualquier reunión" },
+      "empanadas": { "name": "Empanadas", "description": "Empanadas doradas fritas rellenas de carne sazonada, queso o vegetales" },
+      "cachapas": { "name": "Cachapas", "description": "Tortillas dulces de maíz cubiertas con queso blanco fresco" },
+      "bowls": { "name": "Bowls", "description": "Abundantes boles de arroz con proteínas sazonadas al estilo venezolano y toppings frescos" },
+      "postres": { "name": "Postres", "description": "Dulces y golosinas tradicionales venezolanas para terminar tu comida perfectamente" },
+      "bebidas": { "name": "Bebidas", "description": "Bebidas refrescantes incluyendo jugos naturales y favoritos venezolanos" }
+    }
+  },
+  "catering_form": {
+    "title": "Reserva Tu Evento",
+    "subtitle": "Completa el formulario y te responderemos en menos de 24 horas.",
+    "name": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "date": "Fecha Preferida",
+    "alt_date": "Fecha Alternativa (opcional)",
+    "event_type": "Tipo de Evento",
+    "guests": "Número de Invitados",
+    "location": "Ubicación del Evento",
+    "details": "Detalles Adicionales",
+    "details_placeholder": "Cuéntanos sobre tu evento, preferencias de menú, restricciones alimentarias, etc.",
+    "how_found": "¿Cómo nos encontraste?",
+    "submit": "Enviar Solicitud",
+    "sending": "Enviando...",
+    "success": "¡Tu solicitud ha sido enviada! Te responderemos en menos de 24 horas.",
+    "error": "Algo salió mal. Por favor intenta de nuevo o contáctanos directamente.",
+    "select_event_type": "Selecciona el tipo de evento",
+    "select_guests": "Selecciona la cantidad de invitados",
+    "select_how_found": "Selecciona una opción",
+    "event_types": {
+      "corporate": "Evento Corporativo",
+      "private": "Fiesta Privada",
+      "wedding": "Boda",
+      "festival": "Festival",
+      "school": "Evento Escolar",
+      "brewery": "Cervecería",
+      "other": "Otro"
+    },
+    "guest_options": {
+      "20_50": "20–50 invitados",
+      "50_100": "50–100 invitados",
+      "100_150": "100–150 invitados",
+      "150_plus": "150+ invitados"
+    },
+    "how_found_options": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "google": "Google",
+      "referral": "Recomendación",
+      "other": "Otro"
+    },
+    "required": "Campo requerido",
+    "honeypot": ""
+  },
+  "schedule": {
+    "title": "Consulta Nuestra Disponibilidad",
+    "subtitle": "Todas las fechas están disponibles por defecto. Envía una solicitud y confirmaremos tu fecha en 24 horas.",
+    "cta": "Solicitar Esta Fecha",
+    "months": ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"],
+    "days": ["Do","Lu","Ma","Mi","Ju","Vi","Sa"]
+  },
+  "about": {
+    "title": "Nuestra Historia",
+    "content_p1": "Panas Flavor nació de un sueño y un profundo amor por la cocina venezolana. Carlos, nuestro fundador, llegó a Raleigh, NC con una misión sencilla: compartir los auténticos sabores de Venezuela con la comunidad del Triángulo.",
+    "content_p2": "Lo que comenzó como una pequeña aventura rápidamente se convirtió en un food truck muy querido, conocido por sus arepas recién hechas, tequeños crujientes y empanadas sabrosas. Cada plato se elabora con recetas tradicionales transmitidas de generación en generación, usando los ingredientes más frescos.",
+    "content_p3": "En febrero de 2026, lanzamos con orgullo nuestro segundo food truck, ampliando nuestra capacidad para atender más eventos y llevar los sabores venezolanos a más rincones del área del Triángulo.",
+    "content_p4": "No somos solo un food truck — somos un pedazo de Venezuela en Carolina del Norte. Ya sea un evento corporativo, una fiesta privada o un festival comunitario, llevamos el calor, el sabor y el espíritu de Venezuela a tu mesa.",
+    "second_truck": "¡Ahora operamos dos food trucks en el Triángulo!",
+    "since": "Sirviendo a Raleigh desde 2022"
+  },
+  "footer": {
+    "tagline": "Food Truck y Catering de Comida Venezolana Auténtica",
+    "location": "Raleigh, NC y el Área del Triángulo",
+    "rights": "© 2026 Panas Flavor. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "follow": "Síguenos"
+  }
+}

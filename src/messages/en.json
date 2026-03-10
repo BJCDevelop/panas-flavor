@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "catering": "Catering",
+    "schedule": "Schedule",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Authentic Venezuelan Flavors",
+    "subtitle": "Catering for your next event in Raleigh & the Triangle area",
+    "cta_primary": "Request Catering",
+    "cta_secondary": "See Our Menu"
+  },
+  "gallery": {
+    "title": "Our Food & Events",
+    "subtitle": "A taste of what we bring to every event"
+  },
+  "menu": {
+    "title": "Catering Menu",
+    "subtitle": "Our catering is fully customized for your event. Tell us what you need, and we'll create the perfect menu for you.",
+    "custom_pricing": "Custom pricing based on your event",
+    "request_quote": "Request a Quote",
+    "experiences_title": "Past Experiences",
+    "events_served": "Events We've Served",
+    "items": {
+      "arepas": { "name": "Arepas", "description": "Traditional Venezuelan corn cakes filled with your choice of proteins and toppings" },
+      "tequenos": { "name": "Tequeños", "description": "Crispy cheese-filled bread sticks, perfect for any gathering" },
+      "empanadas": { "name": "Empanadas", "description": "Golden fried turnovers filled with seasoned meat, cheese, or vegetables" },
+      "cachapas": { "name": "Cachapas", "description": "Sweet corn pancakes topped with fresh white cheese" },
+      "bowls": { "name": "Bowls", "description": "Hearty rice bowls loaded with Venezuelan-seasoned proteins and fresh toppings" },
+      "postres": { "name": "Desserts", "description": "Traditional Venezuelan sweets and treats to end your meal perfectly" },
+      "bebidas": { "name": "Beverages", "description": "Refreshing drinks including natural juices and Venezuelan favorites" }
+    }
+  },
+  "catering_form": {
+    "title": "Book Your Event",
+    "subtitle": "Fill out the form below and we'll get back to you within 24 hours.",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "date": "Preferred Date",
+    "alt_date": "Alternative Date (optional)",
+    "event_type": "Event Type",
+    "guests": "Number of Guests",
+    "location": "Event Location",
+    "details": "Additional Details",
+    "details_placeholder": "Tell us about your event, menu preferences, dietary restrictions, etc.",
+    "how_found": "How did you find us?",
+    "submit": "Send Request",
+    "sending": "Sending...",
+    "success": "Your request has been sent! We'll get back to you within 24 hours.",
+    "error": "Something went wrong. Please try again or email us directly.",
+    "select_event_type": "Select event type",
+    "select_guests": "Select guest count",
+    "select_how_found": "Select an option",
+    "event_types": {
+      "corporate": "Corporate Event",
+      "private": "Private Party",
+      "wedding": "Wedding",
+      "festival": "Festival",
+      "school": "School Event",
+      "brewery": "Brewery",
+      "other": "Other"
+    },
+    "guest_options": {
+      "20_50": "20–50 guests",
+      "50_100": "50–100 guests",
+      "100_150": "100–150 guests",
+      "150_plus": "150+ guests"
+    },
+    "how_found_options": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "google": "Google",
+      "referral": "Referral",
+      "other": "Other"
+    },
+    "required": "Required field",
+    "honeypot": ""
+  },
+  "schedule": {
+    "title": "Check Our Availability",
+    "subtitle": "All dates are available by default. Submit a request and we'll confirm your date within 24 hours.",
+    "cta": "Request This Date",
+    "months": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+    "days": ["Su","Mo","Tu","We","Th","Fr","Sa"]
+  },
+  "about": {
+    "title": "Our Story",
+    "content_p1": "Panas Flavor was born from a dream and a deep love for Venezuelan cuisine. Carlos, our founder, arrived in Raleigh, NC with a simple mission: to share the authentic flavors of Venezuela with the Triangle community.",
+    "content_p2": "What started as a small venture quickly grew into a beloved food truck known for its freshly made arepas, crispy tequeños, and flavorful empanadas. Every dish is crafted with traditional recipes passed down through generations, using the freshest ingredients.",
+    "content_p3": "In February 2026, we proudly launched our second food truck, expanding our ability to serve more events and bring Venezuelan flavors to even more corners of the Triangle area.",
+    "content_p4": "We're not just a food truck — we're a piece of Venezuela in North Carolina. Whether it's a corporate event, a private party, or a community festival, we bring the warmth, flavor, and spirit of Venezuela to your table.",
+    "second_truck": "Now operating two food trucks in the Triangle!",
+    "since": "Serving Raleigh since 2022"
+  },
+  "footer": {
+    "tagline": "Authentic Venezuelan Food Truck & Catering",
+    "location": "Raleigh, NC & the Triangle Area",
+    "rights": "© 2026 Panas Flavor. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "follow": "Follow Us"
+  }
+}
